@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*.wav
+*.png
+last_failed_audio.wav
+.vscode/
+.env
